@@ -12,6 +12,7 @@ const loader = ThemesLoader(StyleDictionary);
 
 async function main () {
     console.log('Hola mundo');
+    console.log('adios');
 }
 
 main();
